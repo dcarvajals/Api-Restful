@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Api-Restful</string>
+    <string name="titulo">WEB SERVICIES</string>
+    <string name="subtitulo1">Consumo de API Retrofit</string>
+    <string name="subtitulo2">Consumo de la API Android Volley</string>
+    <string name="parametro">j_id:</string>
+    <string name="hitparam">Ingrese el código de la revista</string>
+    <string name="btnname">CONSULTAR</string>
+</resources>
